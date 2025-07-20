@@ -1,0 +1,48 @@
+import 'package:demo_2/models/models.dart';
+
+List<PointOfInterest> gamePoi = [
+  PointOfInterest(
+    x: 1749,
+    y: 805,
+    label: 'Point A',
+    isAnimation: false,
+    asset: '',
+    assetSize: 0.0,
+    assetSizeX: 0.0,
+    assetSizeY: 0.0,
+    frameCount: 0,
+  ),
+  PointOfInterest(
+    x: 1511,
+    y: 1089,
+    label: 'Point B',
+    isAnimation: false,
+    asset: '',
+    assetSize: 0.0,
+    assetSizeX: 0.0,
+    assetSizeY: 0.0,
+    frameCount: 0,
+  ),
+  PointOfInterest(
+    x: 1064,
+    y: 971,
+    label: 'Point C',
+    isAnimation: false,
+    asset: '',
+    assetSize: 0.0,
+    assetSizeX: 0.0,
+    assetSizeY: 0.0,
+    frameCount: 0,
+  ),
+  PointOfInterest(
+    x: 337,
+    y: 1784,
+    label: 'Point D',
+    isAnimation: false,
+    asset: '',
+    assetSize: 0.0,
+    assetSizeX: 0.0,
+    assetSizeY: 0.0,
+    frameCount: 0,
+  ),
+];
